@@ -13,7 +13,6 @@
 
 **Cross-boundary identity evidence infrastructure for the open web and the autonomous agent internet.**
 
-[![CI](https://github.com/ledgerbingo/did/actions/workflows/ci.yml/badge.svg)](https://github.com/ledgerbingo/did/actions)
 [![Production](https://img.shields.io/badge/Platform-Live%20Production-2ea44f?style=flat-square)](https://did.is)
 [![W3C DID Core](https://img.shields.io/badge/W3C-DID%20Core%201.0%20%2F%201.1-005A9C?style=flat-square&logo=w3c&logoColor=white)](https://www.w3.org/TR/did-core/)
 [![W3C VC DM](https://img.shields.io/badge/W3C-VC%20Data%20Model%202.0-005A9C?style=flat-square&logo=w3c&logoColor=white)](https://www.w3.org/TR/vc-data-model-2.0/)
