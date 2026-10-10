@@ -277,9 +277,9 @@ Comprehensive, deeply audited documentation is available in both English and Kor
 
 | Document | Primary Focus | Language Editions |
 | :--- | :--- | :--- |
-| **User & Customer Guide** | Visual dossier interpretation, Universal Command Bar, Credential Studio, progressive disclosure, and troubleshooting. | [English](docs/USER_GUIDE.md) &nbsp;•&nbsp; [한국어](docs/USER_GUIDE.ko.md) |
-| **Developer Guide** | Comprehensive API reference, OpenAPI contracts, TypeScript/Python SDKs, SSE streams, and middleware patterns. | [English](docs/DEVELOPER_GUIDE.md) &nbsp;•&nbsp; [한국어](docs/DEVELOPER_GUIDE.ko.md) |
-| **Standards Reference** | Normative conformance matrix, cryptographic mechanics, mathematical bounds, JCS invariants, and test vectors. | [English](docs/STANDARDS_REFERENCE.md) &nbsp;•&nbsp; [한국어](docs/STANDARDS_REFERENCE.ko.md) |
+| **User & Customer Guide** | Visual dossier interpretation, Universal Command Bar, Credential Studio, progressive disclosure, and troubleshooting. | [English](docs/USER_GUIDE.md) |
+| **Developer Guide** | Comprehensive API reference, OpenAPI contracts, TypeScript/Python SDKs, SSE streams, and middleware patterns. | [English](docs/DEVELOPER_GUIDE.md) |
+| **Standards Reference** | Normative conformance matrix, cryptographic mechanics, mathematical bounds, JCS invariants, and test vectors. | [English](docs/STANDARDS_REFERENCE.md) |
 | **API Contract Reference** | Machine-readable endpoint contracts, RFC 9457 Problem Details envelopes, and HTTP schemas. | [English](docs/API_CONTRACT.md) |
 
 ---
