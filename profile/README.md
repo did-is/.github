@@ -21,7 +21,7 @@
 [![PyPI package](https://img.shields.io/pypi/v/didis-py.svg?style=flat-square&color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/didis-py/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0969da?style=flat-square)](https://github.com/ledgerbingo/did/blob/main/LICENSE)
 
-[**Explore Platform (did.is)**](https://did.is) &nbsp;•&nbsp; [**Interactive Showcase**](https://did.is#showcase) &nbsp;•&nbsp; [**Documentation**](#authoritative-public-documentation-hub) &nbsp;•&nbsp; [**TypeScript SDK**](#typescript-sdk) &nbsp;•&nbsp; [**Python SDK**](#python-sdk)
+[**Explore Platform (did.is)**](https://did.is) &nbsp;•&nbsp; [**Interactive Showcase**](https://did.is#showcase) &nbsp;•&nbsp; [**Documentation**](https://docs.did.is) &nbsp;•&nbsp; [**TypeScript SDK**](#typescript-sdk) &nbsp;•&nbsp; [**Python SDK**](#python-sdk)
 
 </div>
 
