@@ -1,2 +1,0 @@
-# .github
-DID.is
